@@ -1,1 +1,1 @@
-worker theark.js
+worker node theark.js
