@@ -1,0 +1,6 @@
+{
+  
+  "prefix": ["."],
+  "mongoUrl": "mongodb+srv://munurr:nikoali1@cluster0.wzebwrp.mongodb.net/munur?retryWrites=true&w=majority",
+  "owners": ["719117042904727635"]
+}
